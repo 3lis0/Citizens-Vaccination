@@ -1,0 +1,8 @@
+CitizensList{
+[Citizen{Id='1', Name='Rana', Age=28, Gander='Female', Doses List=[dose{manufacturer='pfizer', Place Of Vaccination='cairo', Data Of Vaccination='29 April', Nurse={Id='6', Name='mohamed', ExperienceYears=4}}, dose{manufacturer='pfizer', Place Of Vaccination='cairo', Data Of Vaccination='13 May', Nurse={Id='6', Name='mohamed', ExperienceYears=4}}]}
+, Citizen{Id='2', Name='Ali', Age=20, Gander='male', Doses List=[dose{manufacturer='pfizer', Place Of Vaccination='Mansoura', Data Of Vaccination='20 April', Nurse={Id='7', Name='mohamed', ExperienceYears=2}}, dose{manufacturer='pfizer', Place Of Vaccination='Mansoura', Data Of Vaccination='3 May', Nurse={Id='7', Name='mohamed', ExperienceYears=2}}]}
+, Citizen{Id='3', Name='Mohamed', Age=25, Gander='Male', Doses List=[dose{manufacturer='pfizer', Place Of Vaccination='gize', Data Of Vaccination='2 juan', Nurse={Id='5', Name='mohamed', ExperienceYears=4}}, dose{manufacturer='pfizer', Place Of Vaccination='giza', Data Of Vaccination='23 juan', Nurse={Id='5', Name='mohamed', ExperienceYears=4}}]}
+, Citizen{Id='4', Name='Adel', Age=22, Gander='Male', Doses List=[]}
+, Citizen{Id='5', Name='Mariam', Age=34, Gander='female', Doses List=[dose{manufacturer='pfizer', Place Of Vaccination='cairo', Data Of Vaccination='2 April', Nurse={Id='5', Name='mohamed', ExperienceYears=4}}]}
+, Citizen{Id='7', Name='Alaa', Age=30, Gander='female', Doses List=[]}
+]}
